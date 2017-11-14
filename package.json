@@ -1,0 +1,17 @@
+{
+    "name": "igm-browser",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node index"
+    },
+    "devDependencies": {
+        "eslint": "^4.10.0"
+    },
+    "dependencies": {
+        "async": "^2.6.0",
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "request": "^2.83.0",
+        "zlib": "^1.0.5"
+    }
+}
